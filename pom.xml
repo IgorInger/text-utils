@@ -55,4 +55,7 @@
 			<scope>compile</scope>
 		</dependency>
 	</dependencies>
+	<scm>
+		<developerConnection>scm:git:git@github.com:IgorInger/text-utils.git</developerConnection>
+	</scm>
 </project>
